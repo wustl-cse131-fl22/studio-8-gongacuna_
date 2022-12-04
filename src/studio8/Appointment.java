@@ -33,7 +33,7 @@ public class Appointment {
 	
 	/**
 	 * Gets appointment date
-	 * @return aDate
+	 * @return appDate
 	 */
 	public Date getDate() {
 		return this.appDate;
@@ -41,7 +41,7 @@ public class Appointment {
 	
 	/**
 	 * Gets appointment time
-	 * @return aDate
+	 * @return appTime
 	 */
 	public Time getTime() {
 		return this.appTime;
